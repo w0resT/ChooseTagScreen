@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  ChooseTagScreen
-//
-//  Created by Mikhail on 15.11.2024.
-//
-
 import UIKit
 
 @main
